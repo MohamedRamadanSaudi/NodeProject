@@ -1,2 +1,2 @@
 # NodeProject
-Code Zone node.js Project
+my first project by node.js, express, mongoDB, mongoose
